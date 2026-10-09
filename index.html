@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f3e5eb">
+  <meta name="description" content="Meet CEERIES Hydra Slay Lip Oil: seven shades of everyday shine. Explore the collection, discover your shade, and find your next beauty edit.">
+  <meta name="robots" content="index,follow">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="CEERIES — Hydra Slay Lip Oil">
+  <meta property="og:description" content="A little gloss. A lot of you. Discover all seven Hydra Slay shades.">
+  <meta property="og:image" content="assets/hero.webp">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" type="image/png" href="assets/favicon.png">
+  <link rel="stylesheet" href="style.css">
+  <title>CEERIES — Hydra Slay Lip Oil</title>
+</head>
+<body>
+  <a class="skip-link" href="#app">Skip to content</a>
+  <div class="announcement">A little something for every version of you. &nbsp; <a href="#/formula">Meet Hydra Slay ↗</a></div>
+  <header class="site-header">
+    <a class="logo header-brand" href="#/" aria-label="CEERIES home"><img src="assets/logo.webp" alt="CEERIES" width="110" height="38"><small>HYDRA SLAY</small></a>
+    <nav id="mainnav" aria-label="Main navigation">
+      <a href="#/" data-route="/">Home</a>
+      <a href="#/formula" data-route="/formula">The formula</a>
+      <a href="#/shop" data-route="/shop">Lip oils</a>
+      <a href="#/gallery" data-route="/gallery">The edit</a>
+      <a href="#/contact" data-route="/contact">Contact</a>
+      <a href="#/orders" data-route="/orders">My orders</a>
+      <a href="#/account" data-route="/account">Account</a>
+    </nav>
+    <div class="header-right">
+      <button class="nav-cart" type="button" id="cartTop" aria-label="Open shopping cart" aria-controls="sidecart" aria-expanded="false">Cart <span id="cartCount" aria-live="polite">0</span></button>
+      <button class="outline small gallery-link" type="button" data-go="/gallery">Model gallery ↗</button>
+      <button class="mobile-menu" type="button" id="menuToggle" aria-label="Toggle menu" aria-expanded="false" aria-controls="mainnav">☰</button>
+    </div>
+  </header>
+  <main id="app" tabindex="-1" aria-label="CEERIES website content"><div class="page-standard initial-loading" role="status" aria-live="polite"><p>Preparing your CEERIES collection…</p><div class="skeleton-line"></div><div class="skeleton-line short"></div></div></main>
+  <footer class="footer">
+    <div><a class="logo" href="#/">CEE<span>Я</span>IES<small>HYDRA SLAY</small></a><p>A little gloss goes a long way.</p><a href="#/contact">Contact CEERIES</a></div>
+    <div><strong>Explore</strong><a href="#/">Home</a><a href="#/formula">The formula</a><a href="#/shop">Lip oils</a><a href="#/gallery">The edit</a><a href="#/contact">Contact</a></div>
+    <div><strong>Let's talk</strong><a href="#/contact">Send a product inquiry</a><a href="#/campaign">Our campaign</a><a href="#/email">View the email edit</a><a href="#/api">Data integration</a>
+      <div class="social"><a href="#/contact" aria-label="Ask for CEERIES Facebook details">f</a><a href="#/contact" aria-label="Ask for CEERIES Instagram details">◎</a><a href="#/contact" aria-label="Ask for CEERIES TikTok details">♪</a></div>
+    </div>
+    <div class="footer-bottom">© 2026 CEERIES. ALL RIGHTS RESERVED. <span>Web Publishing &amp; Digital Advertising final project · Demo storefront</span></div>
+  </footer>
+  <div id="veil" class="veil" hidden></div>
+  <aside class="sidecart" id="sidecart" role="dialog" aria-label="Shopping cart" aria-modal="true" tabindex="-1" hidden></aside>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <div id="lightbox" class="lightbox" role="dialog" aria-modal="true" aria-label="Model gallery preview" hidden></div>
+  <script src="app.js"></script>
+  <script src="enhancements.js"></script>
+  <script src="qa.js"></script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+[
+{"id":"queen","name":"QUEEN","shade":"Dark Red","description":"A confident, bold shade for everyday glamour.","price":199,"image":"assets/queen.webp","category":"Hydra Slay Lip Oil","available":true},
+{"id":"hot","name":"HOT","shade":"Red","description":"A vibrant red lip oil for a standout look.","price":199,"image":"assets/hot.webp","category":"Hydra Slay Lip Oil","available":true},
+{"id":"diva","name":"DIVA","shade":"Orange","description":"A playful, bright orange that celebrates individuality.","price":199,"image":"assets/diva.webp","category":"Hydra Slay Lip Oil","available":true},
+{"id":"icon","name":"ICON","shade":"Brown","description":"A versatile brown tone with a glossy finish.","price":199,"image":"assets/icon.webp","category":"Hydra Slay Lip Oil","available":true},
+{"id":"barbie","name":"BARBIE","shade":"Pink","description":"A soft, playful pink to make your day shine.","price":199,"image":"assets/barbie.webp","category":"Hydra Slay Lip Oil","available":true},
+{"id":"purr","name":"PURR","shade":"Soft Nude","description":"A subtle, flattering nude finish for everyday wear.","price":199,"image":"assets/purr.webp","category":"Hydra Slay Lip Oil","available":true},
+{"id":"gorg","name":"GORG","shade":"Clear","description":"A clear, natural shine for effortlessly glossy lips.","price":199,"image":"assets/gorg.webp","category":"Hydra Slay Lip Oil","available":true}
+]

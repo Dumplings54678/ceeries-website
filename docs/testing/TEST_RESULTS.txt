@@ -1,0 +1,23 @@
+CEERIES website audit — actual Node + Chromium browser tests
+PASS — Node health-check
+PASS — Products API has all seven products
+PASS — Customer GET API returns only sample public fields
+PASS — Video asset served
+PASS — Server source code inaccessible
+PASS — Order dataset blocked from public users
+PASS — Unauthenticated API order history inaccessible
+PASS — Header hardening
+PASS — All desktop header + promo + gallery navigation
+PASS — Gallery modal / next / previous / Escape
+PASS — Shop search, empty states, filters and sorting
+PASS — Product photo enlargement + keyboard close
+PASS — Cart persistence, checkout validation, demo checkout, order history
+PASS — Account profile, address, demo wallet preference
+PASS — Contact form validates and labels demo-only success
+PASS — Newsletter demo consent and feedback
+PASS — API results rendered in site
+PASS — No browser JavaScript failures
+PASS — No failed asset/API browser requests
+PASS — Mobile navigation, responsive width, no JS errors
+
+TOTAL 20 PASSED, 0 FAILED

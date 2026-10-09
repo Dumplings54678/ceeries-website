@@ -1,0 +1,17 @@
+file '00.jpg'
+duration 2.5
+file '01.jpg'
+duration 2.5
+file '02.jpg'
+duration 2.5
+file '03.jpg'
+duration 2.5
+file '04.jpg'
+duration 2.5
+file '05.jpg'
+duration 2.5
+file '06.jpg'
+duration 2.5
+file '07.jpg'
+duration 2.5
+file '07.jpg'
